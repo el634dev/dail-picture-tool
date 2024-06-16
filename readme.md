@@ -1,5 +1,5 @@
 # Dali Picture Tool
-> Made a responsive and as accessible as I could, picture tool to change the saturation, hue and brightness
+> Made a responsive and as accessible picture tool to change the saturation, hue and brightness
 
 ## Responsive design
 I added three break points to make the site work on mobile, tablet, and desktop. 
